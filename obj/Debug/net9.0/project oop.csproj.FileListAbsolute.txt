@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\project oop\bin\Debug\net9.0\project oop.exe
+C:\Users\PC\Desktop\project oop\bin\Debug\net9.0\project oop.deps.json
+C:\Users\PC\Desktop\project oop\bin\Debug\net9.0\project oop.runtimeconfig.json
+C:\Users\PC\Desktop\project oop\bin\Debug\net9.0\project oop.dll
+C:\Users\PC\Desktop\project oop\bin\Debug\net9.0\project oop.pdb
+C:\Users\PC\Desktop\project oop\obj\Debug\net9.0\project oop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\project oop\obj\Debug\net9.0\project oop.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\project oop\obj\Debug\net9.0\project oop.AssemblyInfo.cs
+C:\Users\PC\Desktop\project oop\obj\Debug\net9.0\project oop.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\project oop\obj\Debug\net9.0\project oop.dll
+C:\Users\PC\Desktop\project oop\obj\Debug\net9.0\refint\project oop.dll
+C:\Users\PC\Desktop\project oop\obj\Debug\net9.0\project oop.pdb
+C:\Users\PC\Desktop\project oop\obj\Debug\net9.0\project oop.genruntimeconfig.cache
+C:\Users\PC\Desktop\project oop\obj\Debug\net9.0\ref\project oop.dll
